@@ -1,0 +1,18 @@
+/* src/theme.css */
+:root {
+  /* Paleta de Cores */
+  --bg-page: #0d1117;       /* Cinza quase preto */
+  --bg-card: #161b22;       /* Cinza levemente mais claro */
+  --text-primary: #f0f6fc;  /* Branco gelo */
+  --accent-1: #8a2be2;      /* Roxo */
+  --accent-2: #00ff7f;      /* Verde Primavera */
+
+  /* Geometria */
+  --radius-button: 8px;     /* Bordas leves */
+  --radius-card: 20px;       /* Bordas muito arredondadas */
+  --spacing-unit: 16px;     /* Unidade padrão */
+
+  /* Animação */
+  --speed: 0.3s;
+  --curve: ease-in-out;
+}
